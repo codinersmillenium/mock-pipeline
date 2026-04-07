@@ -1,0 +1,222 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "first_name": "Putri",
+    "last_name": "Maharani",
+    "email": "putri.maharani@hotmail.com",
+    "phone": "+6282286379402",
+    "address": "Jl. Cendrawasih No. 88, Medan, Sumatera Utara 20152",
+    "date_of_birth": "1981-12-22",
+    "account_balance": 21923719.33,
+    "created_at": "2024-08-16T00:33:43"
+  },
+  {
+    "customer_id": "CUST-002",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doe@gmail.com",
+    "phone": "+12025550123",
+    "address": "742 Evergreen Terrace, Springfield, USA",
+    "date_of_birth": "1990-05-14",
+    "account_balance": 10500.50,
+    "created_at": "2024-01-10T10:20:30"
+  },
+  {
+    "customer_id": "CUST-003",
+    "first_name": "Siti",
+    "last_name": "Rahmawati",
+    "email": "siti.rahma@gmail.com",
+    "phone": "+6281234567890",
+    "address": "Jl. Malioboro No. 12, Yogyakarta",
+    "date_of_birth": "1988-03-21",
+    "account_balance": 5000000.00,
+    "created_at": "2024-02-15T09:15:00"
+  },
+  {
+    "customer_id": "CUST-004",
+    "first_name": "Carlos",
+    "last_name": "Mendez",
+    "email": "carlos.mendez@yahoo.com",
+    "phone": "+5215512345678",
+    "address": "Av. Reforma 123, Mexico City",
+    "date_of_birth": "1985-07-30",
+    "account_balance": 23450.75,
+    "created_at": "2024-03-05T14:10:20"
+  },
+  {
+    "customer_id": "CUST-005",
+    "first_name": "Ayu",
+    "last_name": "Lestari",
+    "email": "ayu.lestari@gmail.com",
+    "phone": "+6289876543210",
+    "address": "Jl. Diponegoro No. 45, Bandung",
+    "date_of_birth": "1995-11-11",
+    "account_balance": 12500000.00,
+    "created_at": "2024-04-01T08:00:00"
+  },
+  {
+    "customer_id": "CUST-006",
+    "first_name": "Liam",
+    "last_name": "Smith",
+    "email": "liam.smith@gmail.com",
+    "phone": "+447911123456",
+    "address": "221B Baker Street, London",
+    "date_of_birth": "1992-09-17",
+    "account_balance": 8750.25,
+    "created_at": "2024-05-20T12:45:10"
+  },
+  {
+    "customer_id": "CUST-007",
+    "first_name": "Dewi",
+    "last_name": "Anggraini",
+    "email": "dewi.anggraini@gmail.com",
+    "phone": "+628111223344",
+    "address": "Jl. Sudirman No. 77, Jakarta",
+    "date_of_birth": "1983-06-05",
+    "account_balance": 9800000.00,
+    "created_at": "2024-06-11T11:11:11"
+  },
+  {
+    "customer_id": "CUST-008",
+    "first_name": "Chen",
+    "last_name": "Wei",
+    "email": "chen.wei@outlook.com",
+    "phone": "+8613800138000",
+    "address": "Chaoyang District, Beijing",
+    "date_of_birth": "1987-02-14",
+    "account_balance": 15000.00,
+    "created_at": "2024-07-01T07:30:00"
+  },
+  {
+    "customer_id": "CUST-009",
+    "first_name": "Rizky",
+    "last_name": "Pratama",
+    "email": "rizky.pratama@gmail.com",
+    "phone": "+628222333444",
+    "address": "Jl. Ahmad Yani No. 10, Surabaya",
+    "date_of_birth": "1998-12-01",
+    "account_balance": 7200000.00,
+    "created_at": "2024-08-08T08:08:08"
+  },
+  {
+    "customer_id": "CUST-010",
+    "first_name": "Emma",
+    "last_name": "Johnson",
+    "email": "emma.johnson@gmail.com",
+    "phone": "+14165550123",
+    "address": "Toronto, Canada",
+    "date_of_birth": "1991-04-22",
+    "account_balance": 6500.75,
+    "created_at": "2024-09-09T09:09:09"
+  },
+  {
+    "customer_id": "CUST-011",
+    "first_name": "Budi",
+    "last_name": "Santoso",
+    "email": "budi.santoso@gmail.com",
+    "phone": "+628555666777",
+    "address": "Jl. Gatot Subroto No. 22, Semarang",
+    "date_of_birth": "1980-01-01",
+    "account_balance": 10000000.00,
+    "created_at": "2024-10-10T10:10:10"
+  },
+  {
+    "customer_id": "CUST-012",
+    "first_name": "Sophia",
+    "last_name": "Martinez",
+    "email": "sophia.martinez@gmail.com",
+    "phone": "+34911222333",
+    "address": "Madrid, Spain",
+    "date_of_birth": "1993-08-19",
+    "account_balance": 8450.00,
+    "created_at": "2024-11-11T11:11:11"
+  },
+  {
+    "customer_id": "CUST-013",
+    "first_name": "Andi",
+    "last_name": "Saputra",
+    "email": "andi.saputra@gmail.com",
+    "phone": "+628123123123",
+    "address": "Jl. Hasanuddin No. 5, Makassar",
+    "date_of_birth": "1986-05-25",
+    "account_balance": 5400000.00,
+    "created_at": "2024-12-12T12:12:12"
+  },
+  {
+    "customer_id": "CUST-014",
+    "first_name": "Olivia",
+    "last_name": "Brown",
+    "email": "olivia.brown@gmail.com",
+    "phone": "+61298765432",
+    "address": "Sydney, Australia",
+    "date_of_birth": "1994-02-02",
+    "account_balance": 7300.90,
+    "created_at": "2024-03-03T03:03:03"
+  },
+  {
+    "customer_id": "CUST-015",
+    "first_name": "Ahmad",
+    "last_name": "Fauzi",
+    "email": "ahmad.fauzi@gmail.com",
+    "phone": "+628999888777",
+    "address": "Jl. Merdeka No. 1, Palembang",
+    "date_of_birth": "1982-07-07",
+    "account_balance": 8800000.00,
+    "created_at": "2024-04-04T04:04:04"
+  },
+  {
+    "customer_id": "CUST-016",
+    "first_name": "Noah",
+    "last_name": "Wilson",
+    "email": "noah.wilson@gmail.com",
+    "phone": "+12125550111",
+    "address": "New York, USA",
+    "date_of_birth": "1996-06-06",
+    "account_balance": 9100.00,
+    "created_at": "2024-05-05T05:05:05"
+  },
+  {
+    "customer_id": "CUST-017",
+    "first_name": "Maya",
+    "last_name": "Putri",
+    "email": "maya.putri@gmail.com",
+    "phone": "+628777666555",
+    "address": "Jl. Teuku Umar No. 9, Denpasar",
+    "date_of_birth": "1997-03-03",
+    "account_balance": 4300000.00,
+    "created_at": "2024-06-06T06:06:06"
+  },
+  {
+    "customer_id": "CUST-018",
+    "first_name": "Lucas",
+    "last_name": "Dupont",
+    "email": "lucas.dupont@gmail.com",
+    "phone": "+33123456789",
+    "address": "Paris, France",
+    "date_of_birth": "1989-10-10",
+    "account_balance": 12000.00,
+    "created_at": "2024-07-07T07:07:07"
+  },
+  {
+    "customer_id": "CUST-019",
+    "first_name": "Nina",
+    "last_name": "Kusuma",
+    "email": "nina.kusuma@gmail.com",
+    "phone": "+628444333222",
+    "address": "Jl. Imam Bonjol No. 3, Padang",
+    "date_of_birth": "1992-11-11",
+    "account_balance": 6700000.00,
+    "created_at": "2024-08-08T08:08:08"
+  },
+  {
+    "customer_id": "CUST-020",
+    "first_name": "Ethan",
+    "last_name": "Taylor",
+    "email": "ethan.taylor@gmail.com",
+    "phone": "+61412345678",
+    "address": "Melbourne, Australia",
+    "date_of_birth": "1984-04-04",
+    "account_balance": 9900.50,
+    "created_at": "2024-09-09T09:09:09"
+  }
+]
