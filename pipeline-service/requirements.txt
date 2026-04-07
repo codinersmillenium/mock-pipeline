@@ -1,0 +1,7 @@
+fastapi==0.115.14           # Web framework
+uvicorn==0.34.3             # ASGI server
+sqlalchemy==2.0.49          # ORM for PostgreSQL
+psycopg2-binary==2.9.11     # Driver PostgreSQL
+requests==2.33.1            # HTTP client for fetch data
+dlt[postgres]==1.24.0       # ETL/ELT tool to pipeline & upsert PostgreSQL
+httpx==0.23.1               # ADD THIS
