@@ -147,7 +147,7 @@ def list_customers(
 def get_customer(
     customer_id: str, 
     db: Session = Depends(get_db)
-) -> Dict[str, Any]:
+) -> Dict:
     """
     Fetches a specific customer record by their primary key ID.
     """
@@ -161,10 +161,7 @@ def get_customer(
                 "detail": f"Customer ID {customer_id} not found."
             }
             
-        return {
-            "status": "success", 
-            "data": jsonable_encoder(customer)
-        }
+        return jsonable_encoder(customer)
     except Exception as exc:
         return {
             "status": "error", 
